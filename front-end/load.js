@@ -97,7 +97,7 @@ send_nft_button.addEventListener('click', async function() {
                 "metadata": {
                         "title": "Let us Support Ukranian Zoo Community Non Fungible Token reber #4143", 
                         "description": "The photo :)", 
-                        "media": "./img/5.jpg",
+                        "media": "https://raw.githubusercontent.com/digifelis/near-challenge-6/main/front-end/img/5.jpg",
                 },
                 "receiver_id": wallet.getAccountId()
             },
@@ -122,7 +122,7 @@ send_nft_button1.addEventListener('click', async function() {
                 "metadata": {
                         "title": "Let us Support Ukranian Zoo Community Non Fungible Token reber #4143", 
                         "description": "The photo :)", 
-                        "media": "./img/4.jpg",
+                        "media": "https://raw.githubusercontent.com/digifelis/near-challenge-6/main/front-end/img/4.jpg",
                 },
                 "receiver_id": wallet.getAccountId()
             },
